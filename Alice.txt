@@ -5,6 +5,11 @@ Changed again.
 Different text than githib.
 Adding additional text.
 =======
+<<<<<<< HEAD
 Changing text for pulling with conflicts.
 Changing file on github.
+=======
+
+Changing file on github. Changing on github again.
+>>>>>>> 1c88059f40027980bb0c2d36032b247dd8214cff
 >>>>>>> 604796bd93f375eb8f6e4dc362040c5e9da76459
