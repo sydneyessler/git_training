@@ -6,5 +6,5 @@ Different text than githib.
 Adding additional text.
 =======
 
-Changing file on github.
+Changing file on github. Changing on github again.
 >>>>>>> 604796bd93f375eb8f6e4dc362040c5e9da76459
