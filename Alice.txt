@@ -1,5 +1,10 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Changed.
 Changed again.
+<<<<<<< HEAD
 Different text than githib.
 Adding additional text.
+=======
+
+Changing file on github.
+>>>>>>> 604796bd93f375eb8f6e4dc362040c5e9da76459
